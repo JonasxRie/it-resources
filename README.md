@@ -13,3 +13,6 @@ Aus offensichtlichen Gründen sind viele Resourcen in englischer Sprache. An die
 
 # Contribution / Call for Resources
 Um möglichst viel zu sammeln, sind Pull-Requests mit Resourcen gern gesehen. Da die obige Liste kaum vollständig ist, sind auch Resourcen zu anderen Themen willkommen.
+
+## Struktur
+Für jedes Oberthema sollte es ein Verzeichnis mit gleichnamiger Markdown-Datei geben. Dort können dann andere Seiten mit einer kurzen Beschreibung verlinkt werden. Falls PDFs hochgeladen werden, sollte ebenfalls ein kurzer Kommentar in der Markdown-Datei stehen.
