@@ -5,11 +5,11 @@ In diesem Repository möchten wir Resourcen zu IT-Themen sammeln. Ziel soll es s
 Aus offensichtlichen Gründen sind viele Resourcen in englischer Sprache. An dieser Stelle möchten wir aber insbesondere Informationen für deutschsprachige Leser bereitstellen.
 
 # Themen
-* IT-Security
-* Privacy
+* [IT-Security](it-security/it-security.md)
+* [Privacy](privacy/privacy.md)
 * Recherche (wie benuzt man Google)
-* News/Fake News
-* Kritischer Umgang mit Informationen
+* [News/Fake News](news/news.md)
+* [Kritischer Umgang mit Informationen](critical-thinking/critical-thinking.md)
 
 # Contribution / Call for Resources
 Um möglichst viel zu sammeln, sind Pull-Requests mit Resourcen gern gesehen. Da die obige Liste kaum vollständig ist, sind auch Resourcen zu anderen Themen willkommen.
