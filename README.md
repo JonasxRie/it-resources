@@ -7,7 +7,7 @@ Aus offensichtlichen Gründen sind viele Resourcen in englischer Sprache. An die
 # Themen
 * [IT-Security](it-security/it-security.md)
 * [Privacy](privacy/privacy.md)
-* Recherche (wie benuzt man Google)
+* Recherche im Internet
 * [News/Fake News](news/news.md)
 * [Kritischer Umgang mit Informationen](critical-thinking/critical-thinking.md)
 
