@@ -10,3 +10,8 @@ Die Seite [Privacytools.io](https://www.privacytools.io/) informiert über Über
 
 ## No more google
 Google sammelt gern Daten, auf dieser Seite werden privatsphären-freundliche Alternativen für Google-Service gelistet. [nomoregoogle.com](https://nomoregoogle.com/)
+
+## Awesome-Privacy
+Im Folgenden zwei Repositories, in denen schon einige Tools gesammelt wurden.
+* [https://github.com/KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy)
+* [https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
